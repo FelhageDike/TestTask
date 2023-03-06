@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "NhAMIYa1UWoGGvFtuI8bgPk5E8pHckyTLQV6UBdUMr4=",
+  "Source": "UsersApi",
+  "BasePath": "_content/UsersApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\tavro\\source\\repos\\TestTask\\ProductApi\\ProductApi.csproj",
+      "Version": 2,
+      "Source": "ProductApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
