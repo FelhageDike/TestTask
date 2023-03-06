@@ -53,7 +53,7 @@ namespace ProductApi.Controllers
         }
 
 
-
+        //1
         [HttpPost]
         [Route("Post")]
         public async Task<IActionResult> Post(string name, int price, string desc)
